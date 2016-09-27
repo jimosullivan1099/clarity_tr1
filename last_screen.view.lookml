@@ -1,0 +1,1 @@
+/home/looker/models/clarity_basemodel/last_screen.view.lookml

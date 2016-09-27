@@ -1,0 +1,1 @@
+/home/looker/models/clarity_basemodel/service_items.view.lookml

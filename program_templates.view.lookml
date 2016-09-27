@@ -1,0 +1,1 @@
+/home/looker/models/clarity_basemodel/program_templates.view.lookml

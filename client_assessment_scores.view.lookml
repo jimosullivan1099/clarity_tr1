@@ -1,0 +1,1 @@
+/home/looker/models/clarity_basemodel/client_assessment_scores.view.lookml

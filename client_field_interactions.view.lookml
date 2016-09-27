@@ -1,0 +1,1 @@
+/home/looker/models/clarity_basemodel/client_field_interactions.view.lookml
